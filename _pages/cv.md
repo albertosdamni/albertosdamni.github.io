@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-
+## Professional Profile
+As a lecturer and researcher in Islamic Religious Education (PAI), I am deeply committed to advancing multicultural education. My primary focus is on fostering inclusive learning environments and promoting understanding and respect across diverse cultural backgrounds. Through my teaching and research endeavors—which frequently intersect with advanced educational measurement and evaluation—I aim to cultivate spaces where students and fellow educators can engage meaningfully with multicultural perspectives, ultimately enhancing both academic learning and societal harmony.
 
 ## Academic Appointments
 * **Lecturer**, Institut Agama Islam Negeri (IAIN) Kerinci
