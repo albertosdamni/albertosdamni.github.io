@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Academic Appointments
+* **Lecturer**, Institut Agama Islam Negeri (IAIN) Kerinci
+  * 2020 – Present
+  * *Focus:* Educational Research Methodologies (Quantitative and Qualitative), Educational Evaluation, and Data Analysis.
+* **Lecturer**, Universitas Terbuka (UT)
+  * 2023 – Present
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Interests
+* Educational Measurement and Evaluation
+* Advanced Psychometrics
+* Item Response Theory (IRT) and Rasch Modeling
+* Structural Equation Modeling (SEM)
+* Cognitive Diagnostic Models (CDM)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Methodological & Technical Skills
+* **Psychometric Analysis:** Rasch Model, 1PL/2PL/3PL IRT, Cognitive Diagnostic Modeling.
+* **Statistical Modeling:** Structural Equation Modeling (CB-SEM & PLS-SEM), Factor Analysis.
+* **Software Proficiency:** 
+  * R (Psychometric and Statistical packages)
+  * Winsteps / Facets (for Rasch Analysis)
+  * SPSS, Amos, SmartPLS, JASP, Jamovi
+  * ATLAS.ti, NVivo (for Qualitative Data Analysis)
+* **Research Design:** Experimental, Quasi-experimental, Correlational, and Qualitative approaches.
+
+## Selected Publications
+*(A full and regularly updated list of my journal articles and conference papers can be found on the [Publications](/publications/) page).*
+
+## Academic Service & Peer Review
+* Dedicated peer reviewer for manuscripts utilizing quantitative methodologies, psychometric validation, and structural equation modeling. *(See [Academic Service](/academic-service/) for details).*
