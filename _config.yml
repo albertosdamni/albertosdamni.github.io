@@ -13,9 +13,9 @@ title                    : "Albertos Damni, M.Pd."
 title_separator          : "-"
 name                     : &name "Albertos Damni"
 description              : &description "Academic portfolio and research profile focusing on Educational Measurement, Psychometrics, and Evaluation."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://albertos88.github.io" 
+url                      : "https://albertosdamni.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "albertos88/albertos88.github.io"
+repository               : "albertosdamni/albertosdamni.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Doctoral Candidate and Researcher specializing in Educational Measurement, IRT, Rasch Modeling, and Advanced Psychometrics."
   location         : "Indonesia"
   employer         : "IAIN Kerinci"
-  uri              : "https://albertos88.github.io"
+  uri              : "https://albertosdamni.github.io"
   email            : "albertosdamni@iainkerinci.ac.id" 
 
   # Academic websites
