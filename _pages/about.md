@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a lecturer in Islamic Religious Education (PAI) and a Doctoral Candidate in Educational Research and Evaluation, with a specialized concentration in Educational Measurement and Advanced Psychometrics. 
 
 My academic journey is dedicated to bridging multicultural education with rigorous educational measurement. I am passionate about applying advanced quantitative methodologies to understand complex educational, psychological, and socio-religious phenomena in Indonesia.
